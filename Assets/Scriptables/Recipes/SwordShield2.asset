@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d8ead38579f3f0345b0d0b800ee57427, type: 3}
+  m_Name: SwordShield2
+  m_EditorClassIdentifier: 
+  item1: {fileID: 11400000, guid: 68d21139c5bc4df45a5f6bda3218a8ed, type: 2}
+  item2: {fileID: 11400000, guid: 54eaf280f4d251149a1a916f82efcd25, type: 2}
+  result: {fileID: 1020771126324176149, guid: 66953c25d2ff6454d8771681b23af3da, type: 3}
+  giveAttributes: 1

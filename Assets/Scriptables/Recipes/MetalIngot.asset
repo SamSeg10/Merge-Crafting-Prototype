@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d8ead38579f3f0345b0d0b800ee57427, type: 3}
+  m_Name: MetalIngot
+  m_EditorClassIdentifier: 
+  item1: {fileID: 11400000, guid: b75a59340c3a5a843b568de533705fcf, type: 2}
+  item2: {fileID: 11400000, guid: 87018ef4146a6ac48a8248f2a338c6af, type: 2}
+  result: {fileID: 6733844661123411687, guid: dec0ab3b066079a43bbca0a919e78969, type: 3}
+  giveAttributes: 0

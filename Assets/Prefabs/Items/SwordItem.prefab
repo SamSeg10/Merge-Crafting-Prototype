@@ -1,0 +1,119 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &668518797395344181
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 220848311446674589, guid: ff8ff1bdd5e4cc640942a4e0b159064f, type: 3}
+      propertyPath: item
+      value: 
+      objectReference: {fileID: 11400000, guid: d22717ffe2ebab2479b1dd75bd4b35b2, type: 2}
+    - target: {fileID: 220848311446674589, guid: ff8ff1bdd5e4cc640942a4e0b159064f, type: 3}
+      propertyPath: value
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 220848311446674589, guid: ff8ff1bdd5e4cc640942a4e0b159064f, type: 3}
+      propertyPath: damage
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 220848311446674589, guid: ff8ff1bdd5e4cc640942a4e0b159064f, type: 3}
+      propertyPath: sprite
+      value: 
+      objectReference: {fileID: 668922385, guid: 83bf93558b0ec514a95bd6edcd67f7ac, type: 3}
+    - target: {fileID: 220848311446674589, guid: ff8ff1bdd5e4cc640942a4e0b159064f, type: 3}
+      propertyPath: itemName
+      value: Sword
+      objectReference: {fileID: 0}
+    - target: {fileID: 220848311446674589, guid: ff8ff1bdd5e4cc640942a4e0b159064f, type: 3}
+      propertyPath: durability
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 220848311446674589, guid: ff8ff1bdd5e4cc640942a4e0b159064f, type: 3}
+      propertyPath: scriptableItem
+      value: 
+      objectReference: {fileID: 11400000, guid: 0ba6505216d762141afe59661bba7f2d, type: 2}
+    - target: {fileID: 220848311446674589, guid: ff8ff1bdd5e4cc640942a4e0b159064f, type: 3}
+      propertyPath: attributes.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 220848311446674589, guid: ff8ff1bdd5e4cc640942a4e0b159064f, type: 3}
+      propertyPath: attributes.Array.data[0]
+      value: 
+      objectReference: {fileID: 11400000, guid: 874ea4827841b2845b2e87bc214253c2, type: 2}
+    - target: {fileID: 220848311446674589, guid: ff8ff1bdd5e4cc640942a4e0b159064f, type: 3}
+      propertyPath: attributes.Array.data[1]
+      value: 
+      objectReference: {fileID: 11400000, guid: 874ea4827841b2845b2e87bc214253c2, type: 2}
+    - target: {fileID: 6067582656441243090, guid: ff8ff1bdd5e4cc640942a4e0b159064f, type: 3}
+      propertyPath: m_Name
+      value: SwordItem
+      objectReference: {fileID: 0}
+    - target: {fileID: 6387447694580393429, guid: ff8ff1bdd5e4cc640942a4e0b159064f, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 668922385, guid: 83bf93558b0ec514a95bd6edcd67f7ac, type: 3}
+    - target: {fileID: 6387447694580393429, guid: ff8ff1bdd5e4cc640942a4e0b159064f, type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6387447694580393429, guid: ff8ff1bdd5e4cc640942a4e0b159064f, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6387447694580393429, guid: ff8ff1bdd5e4cc640942a4e0b159064f, type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6830466852334185509, guid: ff8ff1bdd5e4cc640942a4e0b159064f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6830466852334185509, guid: ff8ff1bdd5e4cc640942a4e0b159064f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6830466852334185509, guid: ff8ff1bdd5e4cc640942a4e0b159064f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6830466852334185509, guid: ff8ff1bdd5e4cc640942a4e0b159064f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6830466852334185509, guid: ff8ff1bdd5e4cc640942a4e0b159064f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6830466852334185509, guid: ff8ff1bdd5e4cc640942a4e0b159064f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6830466852334185509, guid: ff8ff1bdd5e4cc640942a4e0b159064f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6830466852334185509, guid: ff8ff1bdd5e4cc640942a4e0b159064f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6830466852334185509, guid: ff8ff1bdd5e4cc640942a4e0b159064f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6830466852334185509, guid: ff8ff1bdd5e4cc640942a4e0b159064f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9219698698007582136, guid: ff8ff1bdd5e4cc640942a4e0b159064f, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.y
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ff8ff1bdd5e4cc640942a4e0b159064f, type: 3}
